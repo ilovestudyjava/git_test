@@ -11,5 +11,6 @@ public class test {
         System.out.println("test master");
         System.out.println("test hot-fix");
         System.out.println("ssh send ");
+        System.out.println("pull send  ");
     }
 }
